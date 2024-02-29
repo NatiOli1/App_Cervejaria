@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Cervejaria</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="text_cadastrar">Cadastrar</string>
+    <string name="text_cadastro">Cadastro</string>
+    <string name="button_cadastro_continuar">Continuar</string>
+</resources>
